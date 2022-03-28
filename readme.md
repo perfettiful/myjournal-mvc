@@ -6,7 +6,7 @@ This app uses Node.js/Express/Sequelize with Google OAuth for authentication
 
 ## Usage
 
-Add your SQL DD credentials and Google OAuth credentials to the config.env file
+Add your SQL DB credentials and Google OAuth credentials to the config.env file
 
 ```
 # Install dependencies
